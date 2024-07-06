@@ -1,5 +1,8 @@
 # Student-Grade-Tracker
+
 a program that helps a teacher to understand its student better and analyze his scores 
+
+
 -Import Statements: The ArrayList class from the java.util package and the Scanner class for input are imported.
 -Main Method: The entry point of the program.
 -Scanner and ArrayList Initialization: The Scanner object is created for input, and the ArrayList is initialized to store the grades.
